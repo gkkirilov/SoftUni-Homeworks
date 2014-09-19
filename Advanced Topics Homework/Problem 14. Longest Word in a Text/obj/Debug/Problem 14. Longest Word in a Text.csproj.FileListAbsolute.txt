@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Advanced Topics Homework\Problem 14. Longest Word in a Text\bin\Debug\Problem_14.Longest_Word_in_a_Text.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Advanced Topics Homework\Problem 14. Longest Word in a Text\bin\Debug\Problem_14.Longest_Word_in_a_Text.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Advanced Topics Homework\Problem 14. Longest Word in a Text\bin\Debug\Problem_14.Longest_Word_in_a_Text.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Advanced Topics Homework\Problem 14. Longest Word in a Text\obj\Debug\Problem_14.Longest_Word_in_a_Text.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Advanced Topics Homework\Problem 14. Longest Word in a Text\obj\Debug\Problem_14.Longest_Word_in_a_Text.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Advanced Topics Homework\Problem 14. Longest Word in a Text\obj\Debug\Problem 14. Longest Word in a Text.csprojResolveAssemblyReference.cache

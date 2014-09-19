@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Primitive Data Types Homework\Problem 3. Variable in Hexadecimal Format\bin\Debug\Problem_3.Variable_in_Hexadecimal_Format.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Primitive Data Types Homework\Problem 3. Variable in Hexadecimal Format\bin\Debug\Problem_3.Variable_in_Hexadecimal_Format.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Primitive Data Types Homework\Problem 3. Variable in Hexadecimal Format\bin\Debug\Problem_3.Variable_in_Hexadecimal_Format.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Primitive Data Types Homework\Problem 3. Variable in Hexadecimal Format\obj\Debug\Problem 3. Variable in Hexadecimal Format.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Primitive Data Types Homework\Problem 3. Variable in Hexadecimal Format\obj\Debug\Problem_3.Variable_in_Hexadecimal_Format.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Primitive Data Types Homework\Problem 3. Variable in Hexadecimal Format\obj\Debug\Problem_3.Variable_in_Hexadecimal_Format.pdb

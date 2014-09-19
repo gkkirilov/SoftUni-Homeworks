@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 13. Volleyball\bin\Debug\Problem_13.Volleyball.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 13. Volleyball\bin\Debug\Problem_13.Volleyball.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 13. Volleyball\bin\Debug\Problem_13.Volleyball.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 13. Volleyball\obj\Debug\Problem 13. Volleyball.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 13. Volleyball\obj\Debug\Problem_13.Volleyball.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 13. Volleyball\obj\Debug\Problem_13.Volleyball.pdb

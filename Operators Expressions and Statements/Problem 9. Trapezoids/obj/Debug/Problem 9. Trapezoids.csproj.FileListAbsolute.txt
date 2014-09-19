@@ -1,0 +1,5 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Operators Expressions and Statements\Problem 9. Trapezoids\bin\Debug\Problem_9.Trapezoids.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Operators Expressions and Statements\Problem 9. Trapezoids\bin\Debug\Problem_9.Trapezoids.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Operators Expressions and Statements\Problem 9. Trapezoids\bin\Debug\Problem_9.Trapezoids.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Operators Expressions and Statements\Problem 9. Trapezoids\obj\Debug\Problem_9.Trapezoids.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Operators Expressions and Statements\Problem 9. Trapezoids\obj\Debug\Problem_9.Trapezoids.pdb

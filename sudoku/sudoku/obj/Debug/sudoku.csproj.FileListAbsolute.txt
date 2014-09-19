@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\sudoku\sudoku\bin\Debug\sudoku.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\sudoku\sudoku\bin\Debug\sudoku.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\sudoku\sudoku\bin\Debug\sudoku.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\sudoku\sudoku\obj\Debug\sudoku.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\sudoku\sudoku\obj\Debug\sudoku.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\sudoku\sudoku\obj\Debug\sudoku.pdb

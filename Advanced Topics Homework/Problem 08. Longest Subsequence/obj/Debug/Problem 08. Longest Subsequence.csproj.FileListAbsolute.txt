@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Advanced Topics Homework\Problem 08. Longest Subsequence\bin\Debug\Problem_08.Longest_Subsequence.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Advanced Topics Homework\Problem 08. Longest Subsequence\bin\Debug\Problem_08.Longest_Subsequence.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Advanced Topics Homework\Problem 08. Longest Subsequence\bin\Debug\Problem_08.Longest_Subsequence.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Advanced Topics Homework\Problem 08. Longest Subsequence\obj\Debug\Problem 08. Longest Subsequence.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Advanced Topics Homework\Problem 08. Longest Subsequence\obj\Debug\Problem_08.Longest_Subsequence.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Advanced Topics Homework\Problem 08. Longest Subsequence\obj\Debug\Problem_08.Longest_Subsequence.pdb

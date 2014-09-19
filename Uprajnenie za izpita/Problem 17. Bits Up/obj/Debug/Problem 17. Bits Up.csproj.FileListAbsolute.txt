@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 17. Bits Up\bin\Debug\Problem_17.Bits_Up.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 17. Bits Up\bin\Debug\Problem_17.Bits_Up.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 17. Bits Up\bin\Debug\Problem_17.Bits_Up.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 17. Bits Up\obj\Debug\Problem 17. Bits Up.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 17. Bits Up\obj\Debug\Problem_17.Bits_Up.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 17. Bits Up\obj\Debug\Problem_17.Bits_Up.pdb

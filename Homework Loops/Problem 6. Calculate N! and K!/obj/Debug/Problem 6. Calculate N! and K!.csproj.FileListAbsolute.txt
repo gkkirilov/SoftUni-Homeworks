@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Loops\Problem 6. Calculate N! and K!\bin\Debug\Problem_6.Calculate_N__and_K_.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Loops\Problem 6. Calculate N! and K!\obj\Debug\Problem 6. Calculate N! and K!.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Loops\Problem 6. Calculate N! and K!\bin\Debug\Problem_6.Calculate_N__and_K_.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Loops\Problem 6. Calculate N! and K!\bin\Debug\Problem_6.Calculate_N__and_K_.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Loops\Problem 6. Calculate N! and K!\obj\Debug\Problem_6.Calculate_N__and_K_.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Loops\Problem 6. Calculate N! and K!\obj\Debug\Problem_6.Calculate_N__and_K_.pdb

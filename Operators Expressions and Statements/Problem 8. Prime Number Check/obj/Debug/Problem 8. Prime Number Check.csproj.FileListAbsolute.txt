@@ -1,0 +1,5 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Operators Expressions and Statements\Problem 8. Prime Number Check\bin\Debug\Problem_8.Prime_Number_Check.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Operators Expressions and Statements\Problem 8. Prime Number Check\bin\Debug\Problem_8.Prime_Number_Check.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Operators Expressions and Statements\Problem 8. Prime Number Check\bin\Debug\Problem_8.Prime_Number_Check.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Operators Expressions and Statements\Problem 8. Prime Number Check\obj\Debug\Problem_8.Prime_Number_Check.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Operators Expressions and Statements\Problem 8. Prime Number Check\obj\Debug\Problem_8.Prime_Number_Check.pdb

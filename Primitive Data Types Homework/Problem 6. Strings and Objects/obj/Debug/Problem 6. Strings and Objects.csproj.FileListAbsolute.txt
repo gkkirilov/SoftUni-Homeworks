@@ -1,0 +1,5 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Primitive Data Types Homework\Problem 6. Strings and Objects\bin\Debug\Problem_6.Strings_and_Objects.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Primitive Data Types Homework\Problem 6. Strings and Objects\bin\Debug\Problem_6.Strings_and_Objects.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Primitive Data Types Homework\Problem 6. Strings and Objects\bin\Debug\Problem_6.Strings_and_Objects.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Primitive Data Types Homework\Problem 6. Strings and Objects\obj\Debug\Problem_6.Strings_and_Objects.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Primitive Data Types Homework\Problem 6. Strings and Objects\obj\Debug\Problem_6.Strings_and_Objects.pdb

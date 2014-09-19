@@ -1,0 +1,3 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 17. Sunglasses\bin\Debug\Problem_17.Sunglasses.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 17. Sunglasses\obj\Debug\Problem_17.Sunglasses.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 17. Sunglasses\obj\Debug\Problem_17.Sunglasses.pdb

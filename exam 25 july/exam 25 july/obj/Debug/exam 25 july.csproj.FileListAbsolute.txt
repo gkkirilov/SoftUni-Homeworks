@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\exam 25 july\exam 25 july\bin\Debug\exam 25 july.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\exam 25 july\exam 25 july\bin\Debug\exam 25 july.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\exam 25 july\exam 25 july\bin\Debug\exam 25 july.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\exam 25 july\exam 25 july\obj\Debug\exam 25 july.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\exam 25 july\exam 25 july\obj\Debug\exam 25 july.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\exam 25 july\exam 25 july\obj\Debug\exam 25 july.pdb

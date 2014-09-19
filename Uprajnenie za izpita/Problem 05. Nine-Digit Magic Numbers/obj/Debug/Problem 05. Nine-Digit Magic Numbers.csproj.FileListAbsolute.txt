@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 05. Nine-Digit Magic Numbers\bin\Debug\Problem_05.Nine_Digit_Magic_Numbers.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 05. Nine-Digit Magic Numbers\bin\Debug\Problem_05.Nine_Digit_Magic_Numbers.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 05. Nine-Digit Magic Numbers\bin\Debug\Problem_05.Nine_Digit_Magic_Numbers.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 05. Nine-Digit Magic Numbers\obj\Debug\Problem 05. Nine-Digit Magic Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 05. Nine-Digit Magic Numbers\obj\Debug\Problem_05.Nine_Digit_Magic_Numbers.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 05. Nine-Digit Magic Numbers\obj\Debug\Problem_05.Nine_Digit_Magic_Numbers.pdb

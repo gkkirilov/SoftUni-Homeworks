@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Loops\Problem 14. Decimal to Binary Number\bin\Debug\Problem_14.Decimal_to_Binary_Number.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Loops\Problem 14. Decimal to Binary Number\bin\Debug\Problem_14.Decimal_to_Binary_Number.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Loops\Problem 14. Decimal to Binary Number\bin\Debug\Problem_14.Decimal_to_Binary_Number.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Loops\Problem 14. Decimal to Binary Number\obj\Debug\Problem_14.Decimal_to_Binary_Number.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Loops\Problem 14. Decimal to Binary Number\obj\Debug\Problem_14.Decimal_to_Binary_Number.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Loops\Problem 14. Decimal to Binary Number\obj\Debug\Problem 14. Decimal to Binary Number.csprojResolveAssemblyReference.cache

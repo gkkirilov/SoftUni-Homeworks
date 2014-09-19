@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Loops\Euclidean algorithm\bin\Debug\Euclidean algorithm.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Loops\Euclidean algorithm\obj\Debug\Euclidean algorithm.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Loops\Euclidean algorithm\bin\Debug\Euclidean algorithm.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Loops\Euclidean algorithm\bin\Debug\Euclidean algorithm.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Loops\Euclidean algorithm\obj\Debug\Euclidean algorithm.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Loops\Euclidean algorithm\obj\Debug\Euclidean algorithm.pdb

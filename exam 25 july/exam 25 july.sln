@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exam 25 july", "exam 25 july\exam 25 july.csproj", "{76A23083-2253-46D1-AAB5-1B2EFC292394}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "letters and symbols", "letters and symbols\letters and symbols.csproj", "{1B7CCD36-7964-44A9-B83F-EB726909A3C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pdandaflag", "pdandaflag\pdandaflag.csproj", "{63A8C4D3-F2CB-403F-B047-E9975B0C590D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Morse Code", "Morse Code\Morse Code.csproj", "{26852FA6-71E5-47B5-8BA0-09AB93093F1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitPath", "BitPath\BitPath.csproj", "{6018A788-E68B-4BD4-A389-E70F437058CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{572F27A7-8EBE-43C9-9782-4A41D8412AE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76A23083-2253-46D1-AAB5-1B2EFC292394}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76A23083-2253-46D1-AAB5-1B2EFC292394}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76A23083-2253-46D1-AAB5-1B2EFC292394}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76A23083-2253-46D1-AAB5-1B2EFC292394}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B7CCD36-7964-44A9-B83F-EB726909A3C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B7CCD36-7964-44A9-B83F-EB726909A3C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B7CCD36-7964-44A9-B83F-EB726909A3C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B7CCD36-7964-44A9-B83F-EB726909A3C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63A8C4D3-F2CB-403F-B047-E9975B0C590D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63A8C4D3-F2CB-403F-B047-E9975B0C590D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63A8C4D3-F2CB-403F-B047-E9975B0C590D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63A8C4D3-F2CB-403F-B047-E9975B0C590D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26852FA6-71E5-47B5-8BA0-09AB93093F1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26852FA6-71E5-47B5-8BA0-09AB93093F1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26852FA6-71E5-47B5-8BA0-09AB93093F1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26852FA6-71E5-47B5-8BA0-09AB93093F1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6018A788-E68B-4BD4-A389-E70F437058CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6018A788-E68B-4BD4-A389-E70F437058CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6018A788-E68B-4BD4-A389-E70F437058CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6018A788-E68B-4BD4-A389-E70F437058CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{572F27A7-8EBE-43C9-9782-4A41D8412AE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{572F27A7-8EBE-43C9-9782-4A41D8412AE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{572F27A7-8EBE-43C9-9782-4A41D8412AE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{572F27A7-8EBE-43C9-9782-4A41D8412AE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

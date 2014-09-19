@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 06. Spiral Matrix\bin\Debug\Problem_06.Spiral_Matrix.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 06. Spiral Matrix\bin\Debug\Problem_06.Spiral_Matrix.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 06. Spiral Matrix\bin\Debug\Problem_06.Spiral_Matrix.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 06. Spiral Matrix\obj\Debug\Problem_06.Spiral_Matrix.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 06. Spiral Matrix\obj\Debug\Problem_06.Spiral_Matrix.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 06. Spiral Matrix\obj\Debug\Problem 06. Spiral Matrix.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 09. Bit from Integer\bin\Debug\Problem_09.Bit_from_Integer.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 09. Bit from Integer\bin\Debug\Problem_09.Bit_from_Integer.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 09. Bit from Integer\bin\Debug\Problem_09.Bit_from_Integer.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 09. Bit from Integer\obj\Debug\Problem_09.Bit_from_Integer.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 09. Bit from Integer\obj\Debug\Problem_09.Bit_from_Integer.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 09. Bit from Integer\obj\Debug\Problem 09. Bit from Integer.csprojResolveAssemblyReference.cache

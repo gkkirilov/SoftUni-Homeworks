@@ -1,0 +1,5 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 10. Bit at Positin\bin\Debug\Problem_10.Bit_at_Positin.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 10. Bit at Positin\bin\Debug\Problem_10.Bit_at_Positin.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 10. Bit at Positin\bin\Debug\Problem_10.Bit_at_Positin.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 10. Bit at Positin\obj\Debug\Problem_10.Bit_at_Positin.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 10. Bit at Positin\obj\Debug\Problem_10.Bit_at_Positin.pdb

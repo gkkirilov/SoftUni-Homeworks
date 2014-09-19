@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Conditional Statements\Problem 9\bin\Debug\Problem 9.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Conditional Statements\Problem 9\obj\Debug\Problem 9.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Conditional Statements\Problem 9\obj\Debug\Problem 9.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Conditional Statements\Problem 9\bin\Debug\Problem 9.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Conditional Statements\Problem 9\bin\Debug\Problem 9.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Conditional Statements\Problem 9\obj\Debug\Problem 9.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 14. Odd or Even Sum\bin\Debug\Problem_14.Odd_or_Even_Sum.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 14. Odd or Even Sum\bin\Debug\Problem_14.Odd_or_Even_Sum.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 14. Odd or Even Sum\bin\Debug\Problem_14.Odd_or_Even_Sum.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 14. Odd or Even Sum\obj\Debug\Problem 14. Odd or Even Sum.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 14. Odd or Even Sum\obj\Debug\Problem_14.Odd_or_Even_Sum.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 14. Odd or Even Sum\obj\Debug\Problem_14.Odd_or_Even_Sum.pdb

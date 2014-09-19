@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Primitive Data Types Homework\Problem 4. Unicode Character\bin\Debug\Problem_4.Unicode_Character.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Primitive Data Types Homework\Problem 4. Unicode Character\obj\Debug\Problem 4. Unicode Character.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Primitive Data Types Homework\Problem 4. Unicode Character\bin\Debug\Problem_4.Unicode_Character.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Primitive Data Types Homework\Problem 4. Unicode Character\bin\Debug\Problem_4.Unicode_Character.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Primitive Data Types Homework\Problem 4. Unicode Character\obj\Debug\Problem_4.Unicode_Character.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Primitive Data Types Homework\Problem 4. Unicode Character\obj\Debug\Problem_4.Unicode_Character.pdb

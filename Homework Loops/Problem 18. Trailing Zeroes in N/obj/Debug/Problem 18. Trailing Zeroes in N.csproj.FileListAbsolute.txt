@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Loops\Problem 18. Trailing Zeroes in N\bin\Debug\Problem_18.Trailing_Zeroes_in_N.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Loops\Problem 18. Trailing Zeroes in N\bin\Debug\Problem_18.Trailing_Zeroes_in_N.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Loops\Problem 18. Trailing Zeroes in N\bin\Debug\Problem_18.Trailing_Zeroes_in_N.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Loops\Problem 18. Trailing Zeroes in N\obj\Debug\Problem 18. Trailing Zeroes in N.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Loops\Problem 18. Trailing Zeroes in N\obj\Debug\Problem_18.Trailing_Zeroes_in_N.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Loops\Problem 18. Trailing Zeroes in N\obj\Debug\Problem_18.Trailing_Zeroes_in_N.pdb

@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie 1\Joro, the Football Player\obj\Debug\Joro the Football Player.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie 1\Joro, the Football Player\bin\Debug\Joro the Football Player.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie 1\Joro, the Football Player\bin\Debug\Joro the Football Player.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie 1\Joro, the Football Player\bin\Debug\Joro the Football Player.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie 1\Joro, the Football Player\obj\Debug\Joro the Football Player.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie 1\Joro, the Football Player\obj\Debug\Joro the Football Player.pdb

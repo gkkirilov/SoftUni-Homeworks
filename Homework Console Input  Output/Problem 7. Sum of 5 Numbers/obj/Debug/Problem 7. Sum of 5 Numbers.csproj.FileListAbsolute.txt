@@ -1,0 +1,10 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Solution1\Problem 7. Sum of 5 Numbers\bin\Debug\Problem_7.Sum_of_5_Numbers.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Solution1\Problem 7. Sum of 5 Numbers\bin\Debug\Problem_7.Sum_of_5_Numbers.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Solution1\Problem 7. Sum of 5 Numbers\bin\Debug\Problem_7.Sum_of_5_Numbers.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Solution1\Problem 7. Sum of 5 Numbers\obj\Debug\Problem_7.Sum_of_5_Numbers.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Solution1\Problem 7. Sum of 5 Numbers\obj\Debug\Problem_7.Sum_of_5_Numbers.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Console Input  Output\Problem 7. Sum of 5 Numbers\bin\Debug\Problem_7.Sum_of_5_Numbers.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Console Input  Output\Problem 7. Sum of 5 Numbers\obj\Debug\Problem_7.Sum_of_5_Numbers.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Console Input  Output\Problem 7. Sum of 5 Numbers\obj\Debug\Problem_7.Sum_of_5_Numbers.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Console Input  Output\Problem 7. Sum of 5 Numbers\bin\Debug\Problem_7.Sum_of_5_Numbers.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Console Input  Output\Problem 7. Sum of 5 Numbers\bin\Debug\Problem_7.Sum_of_5_Numbers.pdb

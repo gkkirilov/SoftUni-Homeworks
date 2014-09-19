@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 08. ExtractBit3\bin\Debug\Problem_08.ExtractBit3.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 08. ExtractBit3\bin\Debug\Problem_08.ExtractBit3.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 08. ExtractBit3\bin\Debug\Problem_08.ExtractBit3.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 08. ExtractBit3\obj\Debug\Problem 08. ExtractBit3.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 08. ExtractBit3\obj\Debug\Problem_08.ExtractBit3.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 08. ExtractBit3\obj\Debug\Problem_08.ExtractBit3.pdb

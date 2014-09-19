@@ -1,0 +1,5 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\exam 25 july\BitPath\bin\Debug\BitPath.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\exam 25 july\BitPath\bin\Debug\BitPath.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\exam 25 july\BitPath\bin\Debug\BitPath.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\exam 25 july\BitPath\obj\Debug\BitPath.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\exam 25 july\BitPath\obj\Debug\BitPath.pdb

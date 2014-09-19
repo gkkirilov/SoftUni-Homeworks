@@ -1,0 +1,5 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Advanced Topics Homework\Problem 10. Join Lists\bin\Debug\Problem_10.Join_Lists.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Advanced Topics Homework\Problem 10. Join Lists\bin\Debug\Problem_10.Join_Lists.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Advanced Topics Homework\Problem 10. Join Lists\bin\Debug\Problem_10.Join_Lists.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Advanced Topics Homework\Problem 10. Join Lists\obj\Debug\Problem_10.Join_Lists.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Advanced Topics Homework\Problem 10. Join Lists\obj\Debug\Problem_10.Join_Lists.pdb

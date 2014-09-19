@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 19. Magic Strings\bin\Debug\Problem_19.Magic_Strings.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 19. Magic Strings\bin\Debug\Problem_19.Magic_Strings.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 19. Magic Strings\bin\Debug\Problem_19.Magic_Strings.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 19. Magic Strings\obj\Debug\Problem 19. Magic Strings.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 19. Magic Strings\obj\Debug\Problem_19.Magic_Strings.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 19. Magic Strings\obj\Debug\Problem_19.Magic_Strings.pdb

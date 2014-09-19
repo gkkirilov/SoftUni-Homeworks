@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\exam 25 july\letters and symbols\bin\Debug\letters and symbols.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\exam 25 july\letters and symbols\bin\Debug\letters and symbols.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\exam 25 july\letters and symbols\bin\Debug\letters and symbols.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\exam 25 july\letters and symbols\obj\Debug\letters and symbols.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\exam 25 july\letters and symbols\obj\Debug\letters and symbols.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\exam 25 july\letters and symbols\obj\Debug\letters and symbols.csprojResolveAssemblyReference.cache

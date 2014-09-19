@@ -1,0 +1,5 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Operators Expressions and Statements\Problem 3. Divide by 7 and 5\bin\Debug\Problem_3.Divide_by_7_and_5.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Operators Expressions and Statements\Problem 3. Divide by 7 and 5\bin\Debug\Problem_3.Divide_by_7_and_5.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Operators Expressions and Statements\Problem 3. Divide by 7 and 5\bin\Debug\Problem_3.Divide_by_7_and_5.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Operators Expressions and Statements\Problem 3. Divide by 7 and 5\obj\Debug\Problem_3.Divide_by_7_and_5.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Operators Expressions and Statements\Problem 3. Divide by 7 and 5\obj\Debug\Problem_3.Divide_by_7_and_5.pdb

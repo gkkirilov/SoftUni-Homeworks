@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Solution1\Problem 2. Print Company Information\bin\Debug\Problem_2.Print_Company_Information.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Solution1\Problem 2. Print Company Information\bin\Debug\Problem_2.Print_Company_Information.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Solution1\Problem 2. Print Company Information\bin\Debug\Problem_2.Print_Company_Information.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Solution1\Problem 2. Print Company Information\obj\Debug\Problem_2.Print_Company_Information.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Solution1\Problem 2. Print Company Information\obj\Debug\Problem_2.Print_Company_Information.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Solution1\Problem 2. Print Company Information\obj\Debug\Problem 2. Print Company Information.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 18. Work Hours\bin\Debug\Problem_18.Work_Hours.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 18. Work Hours\bin\Debug\Problem_18.Work_Hours.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 18. Work Hours\bin\Debug\Problem_18.Work_Hours.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 18. Work Hours\obj\Debug\Problem 18. Work Hours.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 18. Work Hours\obj\Debug\Problem_18.Work_Hours.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 18. Work Hours\obj\Debug\Problem_18.Work_Hours.pdb

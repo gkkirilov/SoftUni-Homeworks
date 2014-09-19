@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Advanced Topics Homework\Problem 09. Remove Names\bin\Debug\Problem_09.Remove_Names.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Advanced Topics Homework\Problem 09. Remove Names\bin\Debug\Problem_09.Remove_Names.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Advanced Topics Homework\Problem 09. Remove Names\bin\Debug\Problem_09.Remove_Names.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Advanced Topics Homework\Problem 09. Remove Names\obj\Debug\Problem_09.Remove_Names.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Advanced Topics Homework\Problem 09. Remove Names\obj\Debug\Problem_09.Remove_Names.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Advanced Topics Homework\Problem 09. Remove Names\obj\Debug\Problem 09. Remove Names.csprojResolveAssemblyReference.cache

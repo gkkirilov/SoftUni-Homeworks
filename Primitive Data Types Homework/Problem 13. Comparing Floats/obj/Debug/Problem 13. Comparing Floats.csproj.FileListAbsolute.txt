@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Primitive Data Types Homework\Problem 13. Comparing Floats\bin\Debug\Problem_13.Comparing_Floats.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Primitive Data Types Homework\Problem 13. Comparing Floats\bin\Debug\Problem_13.Comparing_Floats.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Primitive Data Types Homework\Problem 13. Comparing Floats\bin\Debug\Problem_13.Comparing_Floats.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Primitive Data Types Homework\Problem 13. Comparing Floats\obj\Debug\Problem 13. Comparing Floats.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Primitive Data Types Homework\Problem 13. Comparing Floats\obj\Debug\Problem_13.Comparing_Floats.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Primitive Data Types Homework\Problem 13. Comparing Floats\obj\Debug\Problem_13.Comparing_Floats.pdb

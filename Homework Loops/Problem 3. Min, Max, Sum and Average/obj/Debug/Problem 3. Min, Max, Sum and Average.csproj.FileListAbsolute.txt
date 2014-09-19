@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Loops\Problem 3. Min, Max, Sum and Average\bin\Debug\Problem_3.Min__Max__Sum_and_Average.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Loops\Problem 3. Min, Max, Sum and Average\bin\Debug\Problem_3.Min__Max__Sum_and_Average.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Loops\Problem 3. Min, Max, Sum and Average\bin\Debug\Problem_3.Min__Max__Sum_and_Average.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Loops\Problem 3. Min, Max, Sum and Average\obj\Debug\Problem_3.Min__Max__Sum_and_Average.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Loops\Problem 3. Min, Max, Sum and Average\obj\Debug\Problem_3.Min__Max__Sum_and_Average.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Loops\Problem 3. Min, Max, Sum and Average\obj\Debug\Problem 3. Min, Max, Sum and Average.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\sudoku\test\bin\Debug\test.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\sudoku\test\bin\Debug\test.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\sudoku\test\bin\Debug\test.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\sudoku\test\obj\Debug\test.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\sudoku\test\obj\Debug\test.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\sudoku\test\obj\Debug\test.csprojResolveAssemblyReference.cache

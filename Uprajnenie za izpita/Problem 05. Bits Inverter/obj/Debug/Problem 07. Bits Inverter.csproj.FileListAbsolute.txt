@@ -1,0 +1,5 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 05. Bits Inverter\bin\Debug\Problem_05.Bits_Inverter.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 05. Bits Inverter\bin\Debug\Problem_05.Bits_Inverter.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 05. Bits Inverter\bin\Debug\Problem_05.Bits_Inverter.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 05. Bits Inverter\obj\Debug\Problem_05.Bits_Inverter.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 05. Bits Inverter\obj\Debug\Problem_05.Bits_Inverter.pdb

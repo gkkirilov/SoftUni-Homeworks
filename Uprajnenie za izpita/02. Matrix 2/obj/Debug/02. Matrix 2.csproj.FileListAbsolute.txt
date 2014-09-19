@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\02. Matrix 2\bin\Debug\_02.Matrix_2.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\02. Matrix 2\bin\Debug\_02.Matrix_2.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\02. Matrix 2\bin\Debug\_02.Matrix_2.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\02. Matrix 2\obj\Debug\_02.Matrix_2.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\02. Matrix 2\obj\Debug\_02.Matrix_2.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\02. Matrix 2\obj\Debug\02. Matrix 2.csprojResolveAssemblyReference.cache

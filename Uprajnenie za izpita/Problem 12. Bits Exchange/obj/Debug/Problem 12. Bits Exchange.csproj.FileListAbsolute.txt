@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 12. Bits Exchange\bin\Debug\Problem_12.Bits_Exchange.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 12. Bits Exchange\bin\Debug\Problem_12.Bits_Exchange.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 12. Bits Exchange\bin\Debug\Problem_12.Bits_Exchange.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 12. Bits Exchange\obj\Debug\Problem 12. Bits Exchange.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 12. Bits Exchange\obj\Debug\Problem_12.Bits_Exchange.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 12. Bits Exchange\obj\Debug\Problem_12.Bits_Exchange.pdb

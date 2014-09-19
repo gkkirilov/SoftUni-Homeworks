@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Operators Expressions and Statements\Problem 10. Point Outside\bin\Debug\Problem_10.Point_Outside.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Operators Expressions and Statements\Problem 10. Point Outside\bin\Debug\Problem_10.Point_Outside.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Operators Expressions and Statements\Problem 10. Point Outside\bin\Debug\Problem_10.Point_Outside.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Operators Expressions and Statements\Problem 10. Point Outside\obj\Debug\Problem 10. Point Outside.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Operators Expressions and Statements\Problem 10. Point Outside\obj\Debug\Problem_10.Point_Outside.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Operators Expressions and Statements\Problem 10. Point Outside\obj\Debug\Problem_10.Point_Outside.pdb

@@ -1,0 +1,5 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Advanced Topics Homework\Problem 07. Matrix of Palindromes\bin\Debug\Problem_07.Matrix_of_Palindromes.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Advanced Topics Homework\Problem 07. Matrix of Palindromes\bin\Debug\Problem_07.Matrix_of_Palindromes.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Advanced Topics Homework\Problem 07. Matrix of Palindromes\bin\Debug\Problem_07.Matrix_of_Palindromes.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Advanced Topics Homework\Problem 07. Matrix of Palindromes\obj\Debug\Problem_07.Matrix_of_Palindromes.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Advanced Topics Homework\Problem 07. Matrix of Palindromes\obj\Debug\Problem_07.Matrix_of_Palindromes.pdb

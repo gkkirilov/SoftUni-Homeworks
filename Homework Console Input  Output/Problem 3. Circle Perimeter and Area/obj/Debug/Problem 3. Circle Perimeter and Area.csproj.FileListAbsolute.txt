@@ -1,0 +1,8 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Solution1\Problem 3. Circle Perimeter and Area\bin\Debug\Problem_3.Circle_Perimeter_and_Area.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Solution1\Problem 3. Circle Perimeter and Area\bin\Debug\Problem_3.Circle_Perimeter_and_Area.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Solution1\Problem 3. Circle Perimeter and Area\bin\Debug\Problem_3.Circle_Perimeter_and_Area.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Solution1\Problem 3. Circle Perimeter and Area\obj\Debug\Problem_3.Circle_Perimeter_and_Area.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Solution1\Problem 3. Circle Perimeter and Area\obj\Debug\Problem_3.Circle_Perimeter_and_Area.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Console Input  Output\Problem 3. Circle Perimeter and Area\bin\Debug\Problem_3.Circle_Perimeter_and_Area.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Console Input  Output\Problem 3. Circle Perimeter and Area\obj\Debug\Problem_3.Circle_Perimeter_and_Area.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Console Input  Output\Problem 3. Circle Perimeter and Area\obj\Debug\Problem_3.Circle_Perimeter_and_Area.pdb

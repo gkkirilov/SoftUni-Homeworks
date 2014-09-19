@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\exam 25 july\pdandaflag\bin\Debug\pdandaflag.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\exam 25 july\pdandaflag\obj\Debug\pdandaflag.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\exam 25 july\pdandaflag\bin\Debug\pdandaflag.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\exam 25 july\pdandaflag\bin\Debug\pdandaflag.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\exam 25 july\pdandaflag\obj\Debug\pdandaflag.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\exam 25 july\pdandaflag\obj\Debug\pdandaflag.pdb

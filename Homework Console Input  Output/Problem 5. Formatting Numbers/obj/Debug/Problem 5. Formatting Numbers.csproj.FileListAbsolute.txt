@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Solution1\Problem 5. Formatting Numbers\bin\Debug\Problem_5.Formatting_Numbers.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Solution1\Problem 5. Formatting Numbers\bin\Debug\Problem_5.Formatting_Numbers.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Solution1\Problem 5. Formatting Numbers\bin\Debug\Problem_5.Formatting_Numbers.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Solution1\Problem 5. Formatting Numbers\obj\Debug\Problem 5. Formatting Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Solution1\Problem 5. Formatting Numbers\obj\Debug\Problem_5.Formatting_Numbers.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Solution1\Problem 5. Formatting Numbers\obj\Debug\Problem_5.Formatting_Numbers.pdb

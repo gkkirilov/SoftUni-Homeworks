@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Conditional Statements\Problem 7. Sort 3 Numbers\bin\Debug\Problem_7.Sort_3_Numbers.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Conditional Statements\Problem 7. Sort 3 Numbers\bin\Debug\Problem_7.Sort_3_Numbers.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Conditional Statements\Problem 7. Sort 3 Numbers\bin\Debug\Problem_7.Sort_3_Numbers.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Conditional Statements\Problem 7. Sort 3 Numbers\obj\Debug\Problem 7. Sort 3 Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Conditional Statements\Problem 7. Sort 3 Numbers\obj\Debug\Problem_7.Sort_3_Numbers.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Conditional Statements\Problem 7. Sort 3 Numbers\obj\Debug\Problem_7.Sort_3_Numbers.pdb

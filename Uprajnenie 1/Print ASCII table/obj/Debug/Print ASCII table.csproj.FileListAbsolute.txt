@@ -1,0 +1,5 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie 1\Print ASCII table\bin\Debug\Print ASCII table.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie 1\Print ASCII table\bin\Debug\Print ASCII table.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie 1\Print ASCII table\bin\Debug\Print ASCII table.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie 1\Print ASCII table\obj\Debug\Print ASCII table.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie 1\Print ASCII table\obj\Debug\Print ASCII table.pdb

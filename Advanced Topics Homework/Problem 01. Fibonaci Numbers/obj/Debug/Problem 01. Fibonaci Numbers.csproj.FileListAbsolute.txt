@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Advanced Topics Homework\Problem 01. Fibonaci Numbers\bin\Debug\Problem_01.Fibonaci_Numbers.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Advanced Topics Homework\Problem 01. Fibonaci Numbers\bin\Debug\Problem_01.Fibonaci_Numbers.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Advanced Topics Homework\Problem 01. Fibonaci Numbers\bin\Debug\Problem_01.Fibonaci_Numbers.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Advanced Topics Homework\Problem 01. Fibonaci Numbers\obj\Debug\Problem_01.Fibonaci_Numbers.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Advanced Topics Homework\Problem 01. Fibonaci Numbers\obj\Debug\Problem_01.Fibonaci_Numbers.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Advanced Topics Homework\Problem 01. Fibonaci Numbers\obj\Debug\Problem 01. Fibonaci Numbers.csprojResolveAssemblyReference.cache

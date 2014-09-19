@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Advanced Topics Homework\Problem 11. Count of Letters\bin\Debug\Problem_11.Count_of_Letters.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Advanced Topics Homework\Problem 11. Count of Letters\bin\Debug\Problem_11.Count_of_Letters.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Advanced Topics Homework\Problem 11. Count of Letters\bin\Debug\Problem_11.Count_of_Letters.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Advanced Topics Homework\Problem 11. Count of Letters\obj\Debug\Problem_11.Count_of_Letters.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Advanced Topics Homework\Problem 11. Count of Letters\obj\Debug\Problem_11.Count_of_Letters.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Advanced Topics Homework\Problem 11. Count of Letters\obj\Debug\Problem 11. Count of Letters.csprojResolveAssemblyReference.cache

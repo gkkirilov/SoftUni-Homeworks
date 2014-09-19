@@ -1,0 +1,9 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Solution1\Problem 1. Sum of 3 Numbers\bin\Debug\Problem_1.Sum_of_3_Numbers.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Solution1\Problem 1. Sum of 3 Numbers\bin\Debug\Problem_1.Sum_of_3_Numbers.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Solution1\Problem 1. Sum of 3 Numbers\bin\Debug\Problem_1.Sum_of_3_Numbers.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Solution1\Problem 1. Sum of 3 Numbers\obj\Debug\Problem 1. Sum of 3 Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Solution1\Problem 1. Sum of 3 Numbers\obj\Debug\Problem_1.Sum_of_3_Numbers.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Solution1\Problem 1. Sum of 3 Numbers\obj\Debug\Problem_1.Sum_of_3_Numbers.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Console Input  Output\Problem 1. Sum of 3 Numbers\bin\Debug\Problem_1.Sum_of_3_Numbers.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Console Input  Output\Problem 1. Sum of 3 Numbers\obj\Debug\Problem_1.Sum_of_3_Numbers.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Console Input  Output\Problem 1. Sum of 3 Numbers\obj\Debug\Problem_1.Sum_of_3_Numbers.pdb

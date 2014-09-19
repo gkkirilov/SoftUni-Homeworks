@@ -1,0 +1,8 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Solution1\Problem 4. Number Comparer\bin\Debug\Problem_4.Number_Comparer.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Solution1\Problem 4. Number Comparer\bin\Debug\Problem_4.Number_Comparer.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Solution1\Problem 4. Number Comparer\bin\Debug\Problem_4.Number_Comparer.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Solution1\Problem 4. Number Comparer\obj\Debug\Problem_4.Number_Comparer.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Solution1\Problem 4. Number Comparer\obj\Debug\Problem_4.Number_Comparer.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Console Input  Output\Problem 4. Number Comparer\bin\Debug\Problem_4.Number_Comparer.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Console Input  Output\Problem 4. Number Comparer\obj\Debug\Problem_4.Number_Comparer.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Console Input  Output\Problem 4. Number Comparer\obj\Debug\Problem_4.Number_Comparer.pdb

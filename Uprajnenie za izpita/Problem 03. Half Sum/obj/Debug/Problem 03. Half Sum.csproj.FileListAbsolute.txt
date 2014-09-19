@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 03. Half Sum\bin\Debug\Problem_03.Half_Sum.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 03. Half Sum\bin\Debug\Problem_03.Half_Sum.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 03. Half Sum\bin\Debug\Problem_03.Half_Sum.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 03. Half Sum\obj\Debug\Problem 03. Half Sum.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 03. Half Sum\obj\Debug\Problem_03.Half_Sum.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 03. Half Sum\obj\Debug\Problem_03.Half_Sum.pdb

@@ -1,0 +1,5 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 15. Eclipse\bin\Debug\Problem_15.Eclipse.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 15. Eclipse\bin\Debug\Problem_15.Eclipse.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 15. Eclipse\bin\Debug\Problem_15.Eclipse.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 15. Eclipse\obj\Debug\Problem_15.Eclipse.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Uprajnenie za izpita\Problem 15. Eclipse\obj\Debug\Problem_15.Eclipse.pdb

@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\exam 25 july\Morse Code\bin\Debug\Morse Code.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\exam 25 july\Morse Code\obj\Debug\Morse Code.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\exam 25 july\Morse Code\bin\Debug\Morse Code.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\exam 25 july\Morse Code\bin\Debug\Morse Code.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\exam 25 july\Morse Code\obj\Debug\Morse Code.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\exam 25 july\Morse Code\obj\Debug\Morse Code.pdb

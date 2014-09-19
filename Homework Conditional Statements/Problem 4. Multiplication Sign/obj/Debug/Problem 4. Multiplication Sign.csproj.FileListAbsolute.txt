@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Conditional Statements\Problem 4. Multiplication Sign\bin\Debug\Problem_4.Multiplication_Sign.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Conditional Statements\Problem 4. Multiplication Sign\bin\Debug\Problem_4.Multiplication_Sign.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Conditional Statements\Problem 4. Multiplication Sign\bin\Debug\Problem_4.Multiplication_Sign.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Conditional Statements\Problem 4. Multiplication Sign\obj\Debug\Problem 4. Multiplication Sign.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Conditional Statements\Problem 4. Multiplication Sign\obj\Debug\Problem_4.Multiplication_Sign.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Conditional Statements\Problem 4. Multiplication Sign\obj\Debug\Problem_4.Multiplication_Sign.pdb

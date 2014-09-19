@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Loops\Problem 5. Calculate 1+\bin\Debug\Problem_5.Calculate_1_.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Loops\Problem 5. Calculate 1+\obj\Debug\Problem 5. Calculate 1+.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Loops\Problem 5. Calculate 1+\bin\Debug\Problem_5.Calculate_1_.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Loops\Problem 5. Calculate 1+\bin\Debug\Problem_5.Calculate_1_.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Loops\Problem 5. Calculate 1+\obj\Debug\Problem_5.Calculate_1_.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\SoftUni\Domashna na\Homework Loops\Problem 5. Calculate 1+\obj\Debug\Problem_5.Calculate_1_.pdb
