@@ -1,0 +1,37 @@
+import java.awt.BorderLayout;
+import java.awt.Color;
+import java.awt.Container;
+import java.awt.Dimension;
+import java.awt.Font;
+import java.awt.GridLayout;
+import java.awt.event.ActionEvent;
+import java.util.Random;
+
+import javax.swing.JButton;
+import javax.swing.JFrame;
+import javax.swing.JPanel;
+import javax.swing.JTextField;
+
+import Frame;
+
+public class Sudoku {
+	public static void main(String[] args) {
+		
+		   for(int k=0;k<7;k++){
+			   for(int j=0;j<7;j++){
+				   int num= RandomNumber.randInt(0,8);
+				   int num2=RandomNumber.randInt(0,8);
+				   Generator.mask[num][num2]=true;
+			   }
+		   }
+		   
+		
+		   
+//		   // Run the GUI construction on the event-dispatching thread for thread safety
+	   javax.swing.SwingUtilities.invokeLater(new Runnable() { public void run() {new Frame();} });}
+	   
+	}
+
+	
+}
+

@@ -1,0 +1,73 @@
+ package Sudoku;
+
+
+public class Generator {
+
+	public static boolean[][] mask =
+	      {{false, false, false, false, false, false, false, false, false},
+	       {false, false, false, false, false, false, false, false, false},
+	       {false, false, false, false, false, false, false, false, false},
+	       {false, false, false, false, false, false, false, false, false},
+	       {false, false, false, false, false, false, false, false, false},
+	       {false, false, false, false, false, false, false, false, false},
+	       {false, false, false, false, false, false, false, false, false},
+	       {false, false, false, false, false, false, false, false, false},
+	       {false, false, false, false, false, false, false, false, false}};
+	
+
+
+	public static int[][] Gene (int rows, int cols){
+		int[][] puzzle = new int[rows][cols];
+		
+
+	   // make the number higher for easier difficulty
+		// over 60 is too easy and starts to bug
+		//TO DO:FIX this loop
+	    for (int i = 0; i < 60; i++) {
+		int	row=RandomNumber.randInt(0, 8);
+		int	col=RandomNumber.randInt(0, 8);
+		int cellNumber= RandomNumber.randInt(1, 9);
+		
+		if (puzzle[row][col] == 0 && noConflict(puzzle, row, col, cellNumber)) {
+            puzzle[row][col] = cellNumber;
+        } else {
+            i--;
+        }
+		}
+	    
+	    
+	    
+	  
+	return puzzle;
+	}
+		
+
+	public static boolean noConflict(int[][] array, int red1, int kolona1, int num) {
+
+        for (int i = 0; i < 9; i++) {
+            if (array[red1][i] == num) {
+                return false;
+            }
+            if (array[i][kolona1] == num) {
+                return false;
+            }
+        }
+
+       int gridRow = red1 - (red1 % 3);
+        int gridColumn = kolona1 - (kolona1 % 3);
+        for (int p = gridRow; p < gridRow + 3; p++) {
+            for (int q = gridColumn; q < gridColumn + 3; q++) {
+                if (array[p][q] == num) {
+                    return false;
+                    
+                }
+                
+            }
+            
+        }
+        
+        return true;
+	}
+}
+
+

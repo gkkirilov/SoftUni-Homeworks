@@ -1,0 +1,67 @@
+
+public class Generator {
+
+	public static boolean[][] mask =
+	      {{false, false, false, false, false, false, false, false, false},
+	       {false, false, false, false, false, false, false, false, false},
+	       {false, false, false, false, false, false, false, false, false},
+	       {false, false, false, false, false, false, false, false, false},
+	       {false, false, false, false, false, false, false, false, false},
+	       {false, false, false, false, false, false, false, false, false},
+	       {false, false, false, false, false, false, false, false, false},
+	       {false, false, false, false, false, false, false, false, false},
+	       {false, false, false, false, false, false, false, false, false}};
+
+	public static int[][] Gene (int rows, int cols){
+		int[][] puzzle = new int[9][9];
+		int row = 0;
+        int col = 0;
+        int Conflict=0;
+        
+        for (int red = 0; red <= 8; red++) {
+			for (int kolona = 0; kolona <= 8; kolona++) {
+				int cellNumber= RandomNumber.randInt(1, 9);
+				if(cellNumber==0 && noConflict(puzzle,red,kolona,cellNumber)) puzzle[red][kolona]=cellNumber;
+				else kolona--;
+				
+			}
+			
+		}
+		
+		
+		
+		
+		
+		
+		
+	return puzzle;
+	}
+	
+	public static boolean noConflict(int[][] array, int red1, int kolona1, int num) {
+
+        for (int i = 0; i < 9; i++) {
+            if (array[red1][i] == num) {
+                return false;
+            }
+            if (array[i][kolona1] == num) {
+                return false;
+            }
+        }
+
+       int gridRow = red1 - (red1 % 3);
+        int gridColumn = kolona1 - (kolona1 % 3);
+        for (int p = gridRow; p < gridRow + 3; p++) {
+            for (int q = gridColumn; q < gridColumn + 3; q++) {
+                if (array[p][q] == num) {
+                    return false;
+                    
+                }
+                
+            }
+            
+        }
+        
+        return true;
+    }
+}
+
